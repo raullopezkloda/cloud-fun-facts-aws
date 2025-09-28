@@ -1,0 +1,62 @@
+[
+  {
+    "FactID": "1",
+    "FactText": "AWS S3 fue uno de los primeros servicios de AWS, lanzado en 2006."
+  },
+  {
+    "FactID": "2",
+    "FactText": "Netflix ejecuta casi toda su infraestructura en AWS."
+  },
+  {
+    "FactID": "3",
+    "FactText": "La computación en la nube puede ahorrar a las empresas hasta un 30% en costos de TI."
+  },
+  {
+    "FactID": "4",
+    "FactText": "La NASA usa AWS para almacenar y compartir con el público los datos de la misión a Marte."
+  },
+  {
+    "FactID": "5",
+    "FactText": "Hoy en día, AWS tiene más de 200 servicios completamente funcionales."
+  },
+  {
+    "FactID": "6",
+    "FactText": "La \"nube\" no flota en el cielo, está hecha de enormes centros de datos en la Tierra."
+  },
+  {
+    "FactID": "7",
+    "FactText": "Más del 90% de las empresas de la Fortune 100 usan AWS."
+  },
+  {
+    "FactID": "8",
+    "FactText": "Los centros de datos de AWS son tan seguros que requieren escáneres de retina y guardias 24/7."
+  },
+  {
+    "FactID": "9",
+    "FactText": "Serverless no significa que no haya servidores, solo que no los administras."
+  },
+  {
+    "FactID": "10",
+    "FactText": "Cada Zona de Disponibilidad de AWS tiene al menos una fuente de energía y un sistema de enfriamiento independientes."
+  },
+  {
+    "FactID": "11",
+    "FactText": "Amazon derribó accidentalmente partes de Internet cuando S3 tuvo una caída en 2017."
+  },
+  {
+    "FactID": "12",
+    "FactText": "El servicio de AWS de más rápido crecimiento es Amazon SageMaker, usado para aprendizaje automático."
+  },
+  {
+    "FactID": "13",
+    "FactText": "La palabra \"nube\" se popularizó en la década de 1990 como una metáfora de Internet."
+  },
+  {
+    "FactID": "14",
+    "FactText": "AWS Lambda puede escalar automáticamente de cero a miles de solicitudes por segundo."
+  },
+  {
+    "FactID": "15",
+    "FactText": "Hoy se almacena más información en la nube que en todas las computadoras personales combinadas."
+  }
+]
