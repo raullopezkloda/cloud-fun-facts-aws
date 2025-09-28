@@ -22,3 +22,13 @@ Aplicación serverless que combina AWS Lambda, DynamoDB y Bedrock para generar f
 5. Bedrock mejora el fact con IA
 6. Se devuelve la respuesta ingeniosa
 
+## 🔧 Configuración
+
+- Región: eu-north-1
+- Runtime: Python 3.9
+- Modelo: Claude Sonnet 4 (inference profile EU)
+
+## 💰 Costos estimados
+
+- Aproximadamente $0.03 por 1000 requests
+- Free tier disponible para nuevos usuarios AWS
